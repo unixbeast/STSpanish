@@ -97,7 +97,7 @@ Haga clic en el botón "Guardar" por encima del editor.
 
     Al interactuar con los dispositivos, SmartApps debe utilizar las funciones para garantizar la máxima flexibilidad (que es la "capacidad.contactSensor" más arriba).  La capacidad disponible se puede encontrar en el :ref: 'capabilities_taxonomy" a la página.
 
-    Más información acerca de las preferencias puede encontrarse en la `sección de Configuración y preferencias <smartapp desarrolladores-guide/preferencias y settings.html> `__ de la "Guía del desarrollador `SmartApp <smartapp desarrolladores-guide/index.html>`__.
+    Más información acerca de las preferencias puede encontrarse en la `sección de Configuración y preferencias <smartapp desarrolladores-guide/preferencias y settings.html>`__ de la `Guía del desarrollador SmartApp <smartapp desarrolladores-guide/index.html>`__.
 
 ----
 
